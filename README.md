@@ -1,6 +1,6 @@
-# Locadora de veiculo   "Sua Garagem"
+# Locadora de veículo   "Sua Garagem"
 
-A locadora brasileira de carros ( Sua Garagem ) cobra um valor por hora para locações de até
+A locadora brasileira de veículos ( Sua Garagem ) cobra um valor por hora para locações de até
 12 horas. Porém, se a duração da locação ultrapassar 12 horas, a locação será
 cobrada com base em um valor diário.
 Além do valor da locação, é acrescido no preço o valor do imposto conforme regras do país que, no caso do Brasil, é 20%
