@@ -12,6 +12,7 @@ O programa deve então gerar a nota de pagamento (contendo valor da locação, v
 imposto e valor total do pagamento) e informar os dados na tela.
 Veja os exemplos.
 
+### Exemplo:
 #### Digite o modelo do carro
 #### Modelo : Corsa
 #### Data de entrada (dd/MM/yyyy hh:mm): 25/06/2018 10:30
@@ -28,6 +29,7 @@ Veja os exemplos.
 ###### Pagamento básico = 5 * 10 = 50
 ###### Taxa = 50 * 20% = 50 * 0.2 = 10
 
+### Exemplo:
 #### Digite o modelo do carro
 #### Modelo: Civic
 #### Data de entrada (dd/MM/yyyy hh:mm): 25/06/2018 10:30
