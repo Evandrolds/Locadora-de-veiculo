@@ -1,2 +1,1 @@
-# Cocadora de veiculo 
-# Locadora  "Sua Garagem"
+# Cocadora de veiculo   "Sua Garagem"
