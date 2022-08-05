@@ -1,4 +1,4 @@
-# Cocadora de veiculo   "Sua Garagem"
+# Locadora de veiculo   "Sua Garagem"
 
 A locadora brasileira de carros ( Sua Garagem ) cobra um valor por hora para locações de até
 12 horas. Porém, se a duração da locação ultrapassar 12 horas, a locação será
