@@ -36,7 +36,7 @@ Veja os exemplos.
 ##### Data de saída (dd/MM/yyyy hh:mm): 27/06/2018 11:40
 ##### Digite o preço por hora : R$ 10.00
 ##### Digite o preço por dia: R$ 130.00
-##### INVOICE:
+##### Estrato:
 ##### Pagamento mínimo: R$ 390.00
 ##### Taxa: R$ 58.50
 ##### Total a pagar: R$ 448.50
