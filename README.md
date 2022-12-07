@@ -11,7 +11,7 @@ locação), bem como o valor por hora e o valor diário de locação.
 O programa deve então gerar a nota de pagamento (contendo valor da locação, valor do
 imposto e valor total do pagamento) e informar os dados na tela.
 Veja os exemplos.
-
+## Tecnologia usada:  Java 11
 ### Exemplo:
 ##### Digite o modelo do carro
 ##### Modelo : Corsa
